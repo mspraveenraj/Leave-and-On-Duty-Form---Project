@@ -1,1 +1,2 @@
-# Leave-and-On-Duty-Form---Project
+# Leave and On Duty Form Management System --- Project
+See readme.txt
