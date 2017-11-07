@@ -2,9 +2,6 @@
 # Thanks to HOD and other faculties for helping to develope this project.
 # Developed By,
 # Praveenraj.M.S,
-# Nandhagopal.R,
-# Naveen.R,
-# Madhuvanthi.M
 # Department of Computer Science and Engineering.
 # K.S.R. College of Engineering.
 # Batch 2014-18. 
