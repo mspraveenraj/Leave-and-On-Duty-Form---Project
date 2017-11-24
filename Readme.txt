@@ -1,5 +1,5 @@
 # Leave and On Duty Form Management System.
-# Thanks to HOD and other faculties for helping to develope this project.
+
 # Developed By,
 # Praveenraj.M.S,
 # Department of Computer Science and Engineering.
